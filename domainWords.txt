@@ -1,0 +1,8 @@
+clean
+code
+ratio
+words
+files
+file
+folders
+folder
