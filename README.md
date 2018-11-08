@@ -1,5 +1,11 @@
 
 
+Code Cleanliness Ratio (CCR) is the number Domain Words found
+in code, file names, and folder names 
+divided by the total number of words (including file and folder
+names) in a software code repository.
+
+
 ## License
 
 Copyright (c) 2014-2018 Alonso A. Ortega
