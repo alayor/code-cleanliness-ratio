@@ -8,7 +8,7 @@ fs.readFile('domainWords.txt', (err, data) => {
                 .reduce((acc, curr) => {
                     return acc + curr
                 })
-        console.log('wordsInDomainWords: ', wordsInDomainWords)
+        console.log('Your Code Cleanliness Ratio is: %', wordsInDomainWords / files.length / 100)
     })
 })
 
