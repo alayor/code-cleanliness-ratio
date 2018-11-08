@@ -1,0 +1,24 @@
+{
+  "name": "code-cleanliness-ratio",
+  "version": "1.0.0",
+  "description": "Code Cleanliness Ratio",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alayor/code-cleanliness-ratio.git"
+  },
+  "keywords": [
+    "clean",
+    "code",
+    "metrics"
+  ],
+  "author": "Alonso A. Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alayor/code-cleanliness-ratio/issues"
+  },
+  "homepage": "https://github.com/alayor/code-cleanliness-ratio#readme"
+}
